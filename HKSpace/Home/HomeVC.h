@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  HomeVC.h
 //  HKSpace
 //
 //  Created by FC on 17/4/9.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface HomeVC : UIViewController
 
 @end
-

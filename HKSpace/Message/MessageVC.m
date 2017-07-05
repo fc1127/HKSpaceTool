@@ -1,29 +1,27 @@
 //
-//  ViewController.m
+//  MessageVC.m
 //  HKSpace
 //
 //  Created by FC on 17/4/9.
 //  Copyright © 2017年 FC. All rights reserved.
 //
 
-#import "ViewController.h"
+#import "MessageVC.h"
 
-@interface ViewController ()
+@interface MessageVC ()
 
 @end
 
-@implementation ViewController
+@implementation MessageVC
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    // Do any additional setup after loading the view, typically from a nib.
+    // Do any additional setup after loading the view.
 }
-
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
 }
-
 
 @end
